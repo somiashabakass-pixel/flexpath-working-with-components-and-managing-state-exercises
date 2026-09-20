@@ -58,7 +58,8 @@ Description:
 
 Discuss the benefits and drawbacks of using React `Context`.
 
-
+React Context is best for global values like theme, language, or user info.
+It removes prop‑drilling, but it can hurt performance and reduce clarity if overused.
 
 Exercise 8: Using useEffect Hook
 
